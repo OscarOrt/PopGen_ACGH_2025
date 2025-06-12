@@ -1,0 +1,1 @@
+This repository contains information regarding the talk "Métodos y aplicaciones de técnicas de secuenciación de siguiente generación en genómica de poblaciones" prepared by Oscar Ortega-Recalde for the "XII Simposio internacional de Genética Humana, Cartagena Colombia, 2025".
